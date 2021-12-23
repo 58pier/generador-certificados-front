@@ -1,0 +1,54 @@
+body {
+  font-size: 7px;
+}
+.formulario {
+  margin: 10px;
+  padding: 50px;
+  font-size: 40px;
+}
+
+.App {
+  font-family: sans-serif;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 100px;
+  width: 8cm;
+  height: 5cm;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  margin-top: 3px;
+}
+.logo {
+  width: 2.52cm;
+  height: 0.54cm;
+}
+
+h1 {
+  margin-left: 7px;
+  font-size: 10px;
+  color: #164959;
+  font-family: monospace bold;
+}
+.content {
+  margin: 9px;
+  margin-top: 5px;
+}
+table {
+  margin-left: 15px;
+  width: 90%;
+  border-collapse: collapse;
+}
+.vacunas {
+  text-align: center;
+}
+.datos {
+  font-size: 7px;
+}
+.lugar {
+  font-size: 5px;
+}
+.numero {
+  font-size: 5px;
+}
